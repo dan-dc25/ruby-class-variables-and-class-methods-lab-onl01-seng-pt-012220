@@ -13,8 +13,8 @@ class Song
 
   end
 
-  def genre_count(genre)
-    @@genres << genre
+  def self.count
+    puts self
   end
 
 

@@ -16,6 +16,6 @@ class Song
   def genre_count(genre)
     @@genres << genre
   end
-    
+
 
 end
